@@ -32,27 +32,27 @@ npm start
 ```
 
 ## Dokumentasi Fitur To-Do App yang telah dibuat
-- Menambah todo task
-https://github.com/anuNaki22/To-Do-App-TEFA/assets/99629909/ceb09dbc-d027-4c33-acf3-b8c2707e80db
+- **Menambah todo task:**
+![2023-05-20 23-03-06](https://github.com/anuNaki22/To-Do-App-TEFA/assets/99629909/c01eae84-e00e-4916-8edb-c57bad009309)
 
-- Mengurangi/Menghapus todo task
-https://github.com/anuNaki22/To-Do-App-TEFA/assets/99629909/4540bdc8-4ca3-4508-a440-41ddad374ef3
+- **Mengurangi/Menghapus todo task:**
+![2023-05-20 23-05-07](https://github.com/anuNaki22/To-Do-App-TEFA/assets/99629909/07f727b6-6991-4331-afc2-2909c32daf01)
 
-- Menandai todo task yang sudah selesai
-https://github.com/anuNaki22/To-Do-App-TEFA/assets/99629909/4c8adc21-ff06-48db-a253-177f3ef07b3d
+- **Menandai todo task yang sudah selesai:**
+![2023-05-20 23-06-15](https://github.com/anuNaki22/To-Do-App-TEFA/assets/99629909/3c1d7534-78e9-44e1-9273-4ffa7dcb8b7d)
 
-- Melakukan undo terhadap todo task yang sudah ditandai selesai
-https://github.com/anuNaki22/To-Do-App-TEFA/assets/99629909/6c5b5495-3138-4c2c-a106-659e67c70b48
+- **Melakukan undo terhadap todo task yang sudah ditandai selesai:**
+![2023-05-20 23-07-05](https://github.com/anuNaki22/To-Do-App-TEFA/assets/99629909/98d1bbda-da7a-4bcc-8572-9b99d4e98923)
 
-- Mengedit task
-https://github.com/anuNaki22/To-Do-App-TEFA/assets/99629909/f88ee1e6-1bba-4f0c-a841-e4791479008e
+- **Mengedit task:**
+![2023-05-20 23-08-06](https://github.com/anuNaki22/To-Do-App-TEFA/assets/99629909/8826914f-5477-46cd-9c2e-55553c3c45ef)
 
-- Penggunaan local storage (menggunakan local forage sehingga data tersimpan dalam local user)
-https://github.com/anuNaki22/To-Do-App-TEFA/assets/99629909/f23db1c8-18d9-4232-8e8c-21aca4cc4d54
+- **Penggunaan local storage (menggunakan local forage sehingga data tersimpan dalam local user):**
+![2023-05-20 23-11-41](https://github.com/anuNaki22/To-Do-App-TEFA/assets/99629909/e1ffe444-bada-4815-a918-d3b01d0472cf)
 
-- Animasi menarik pada setiap action
-animasi setiap action dapat dilihat dari dokumentasi fitur-fitur di atas atau bisa langsung mencoba melalui website.
+- **Animasi menarik pada setiap action:** animasi setiap action dapat dilihat dari dokumentasi fitur-fitur di atas atau bisa langsung mencoba melalui website.
 
 
 ## Website To-Do App (project dideploy dengan netlify)
-https://to-do-app-tefa.netlify.app/
+
+**https://to-do-app-tefa.netlify.app/**
