@@ -48,7 +48,7 @@ npm start
 ![2023-05-20 23-08-06](https://github.com/anuNaki22/To-Do-App-TEFA/assets/99629909/8826914f-5477-46cd-9c2e-55553c3c45ef)
 
 - **Penggunaan local storage (menggunakan local forage sehingga data tersimpan dalam local user):**
-![2023-05-20 23-11-41](https://github.com/anuNaki22/To-Do-App-TEFA/assets/99629909/e1ffe444-bada-4815-a918-d3b01d0472cf)
+![2023-05-20 23-10-26](https://github.com/anuNaki22/To-Do-App-TEFA/assets/99629909/a9d8b591-c8df-4023-9ab6-24373b51334c)
 
 - **Animasi menarik pada setiap action:** animasi setiap action dapat dilihat dari dokumentasi fitur-fitur di atas atau bisa langsung mencoba melalui website.
 
